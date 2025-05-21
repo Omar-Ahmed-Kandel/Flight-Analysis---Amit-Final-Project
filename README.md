@@ -11,9 +11,6 @@ Welcome to **Flight Data Analysis – Amit**, a Power BI dashboard that turn
 7. [Next Steps & Decisions](#next-steps--decisions)
 
 
-<a href = "https://github.com/Omar-Ahmed-Kandel/Flight-Analysis---Amit-Final-Project/tree/main/Data">Dataset</a>
-
-
 ---
 
 ## Executive Summary
@@ -64,4 +61,12 @@ A Power BI dashboard summarizes flight operations, passenger demographics, and
 - **Automate Monitoring:** Implement daily dashboard refreshes and alerts for key KPIs.
 
 ---
+
+## Dashboards
+![Final Project-images-0](https://github.com/user-attachments/assets/7e5335c4-27ed-4665-a7ff-267ecedebed0)
+![Final Project-images-1](https://github.com/user-attachments/assets/654b37ed-e39e-4b99-aa65-ba31e210e28e)
+
+
+## Dataset
+<a href = "https://github.com/Omar-Ahmed-Kandel/Flight-Analysis---Amit-Final-Project/tree/main/Data">Dataset</a>
 
